@@ -5,7 +5,7 @@
 replicaCount: 2
 
 image:
-  repository: {username}/api-tester
+  repository: popae3/api-tester
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
